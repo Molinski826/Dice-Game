@@ -1,0 +1,14 @@
+C:\Users\molin\source\repos\CrapGame\CrapGame\bin\Debug\net8.0\CrapGame.exe
+C:\Users\molin\source\repos\CrapGame\CrapGame\bin\Debug\net8.0\CrapGame.deps.json
+C:\Users\molin\source\repos\CrapGame\CrapGame\bin\Debug\net8.0\CrapGame.runtimeconfig.json
+C:\Users\molin\source\repos\CrapGame\CrapGame\bin\Debug\net8.0\CrapGame.dll
+C:\Users\molin\source\repos\CrapGame\CrapGame\bin\Debug\net8.0\CrapGame.pdb
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.AssemblyInfoInputs.cache
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.AssemblyInfo.cs
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.csproj.CoreCompileInputs.cache
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.dll
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\refint\CrapGame.dll
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.pdb
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\CrapGame.genruntimeconfig.cache
+C:\Users\molin\source\repos\CrapGame\CrapGame\obj\Debug\net8.0\ref\CrapGame.dll
